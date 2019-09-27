@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/m-a-y-a-n-k/nodejsCC/issues"
   },
-  "homepage": "https://github.com/m-a-y-a-n-k/nodejsCC#readme"
+  "homepage": "https://github.com/m-a-y-a-n-k/nodejsCC#readme",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
 }
