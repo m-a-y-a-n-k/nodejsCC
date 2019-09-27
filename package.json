@@ -1,0 +1,22 @@
+{
+  "name": "node_crash",
+  "version": "1.0.0",
+  "description": "Node Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-a-y-a-n-k/nodejsCC.git"
+  },
+  "keywords": [
+    "Tutorials"
+  ],
+  "author": "m-a-y-a-n-k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-a-y-a-n-k/nodejsCC/issues"
+  },
+  "homepage": "https://github.com/m-a-y-a-n-k/nodejsCC#readme"
+}
